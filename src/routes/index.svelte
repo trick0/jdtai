@@ -1,22 +1,14 @@
 <script>
-	const test = [
-		{
-			label: 'Page 1',
-			code: 'page1'
-		},
-		{
-			label: 'Page 2',
-			code: 'page2'
-		}
-	];
+	import SvelteMarkdown from 'svelte-markdown';
+	import pages from '../assets/pages.json';
 </script>
 
 <main class="w-full h-full">
-    {#each test as page}
-        <div class="page h-full" id="{page.code}">
-            { page.label }
-        </div>
-    {/each}
+	{#each pages as page}
+		<div class="page h-full p-8" id={page.title} style="background-color: {page.background}; color: {page.color}">
+			<SvelteMarkdown source={page.content} />
+		</div>
+	{/each}
 </main>
 
 <style>
@@ -29,4 +21,3 @@
 		scroll-snap-align: start;
 	}
 </style>
-

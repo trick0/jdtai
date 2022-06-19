@@ -4,10 +4,10 @@ ghpages.publish(
     'public', // path to public directory
     {
         branch: 'gh-pages',
-        repo: 'https://github.com/username/yourproject.git', // Update to point to your repository  
+        repo: 'git@github.com:trick0/jdtai.git', // Update to point to your repository  
         user: {
-            name: 'Your name', // update to use your name
-            email: 'Your Email address' // Update to use your email
+            name: 'Walter', // update to use your name
+            email: '0waltercossu@gmail.com' // Update to use your email
         }
     },
     () => {

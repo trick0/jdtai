@@ -1,0 +1,26 @@
+[
+    {
+        "title": "page 1",
+        "code": "page1",
+        "background": "#000000",
+        "color": "#D5D5D5",
+        "content": "![](jdtai/20220619_154054_logo.png)",
+        "position": "bottom"
+    },
+    {
+        "title": "page 2",
+        "code": "page2",
+        "background": "#D5D5D5",
+        "color": "#000000",
+        "content": "*Il gioco narra le storie di alcuni pazienti di una clinica camuffata in condominio\nche cercano di vivere una vita normale sotto il controllo di medici, infermieri\ne personale sanitario.*\n\n*B, personaggio principale, soffre di disturbi di ansia e deve combattere con\nfrequenti attacchi di panico e distacco dalla realtà, nella ricerca verso la compressione di sè\ne dei suoi vicini.*",
+        "position": "top"
+    },
+    {
+        "title": "page 3",
+        "code": "page3",
+        "color": "#D5D5D5",
+        "background": "#000000",
+        "content": "La storia si apre lentamente con una serie di documenti e dialoghi con gli altri inquilini.\nB, dovrà capire la cripticità di alcuni dialoghi e testi e dovrà farsi avanti durante il giorno e la notte\naffrontando le proprie paure e i propri demoni interiori.\n\n<span style='color:blue'>Just don't think about it</span> è un gioco che vuole mettere sotto una luce diversa, il modo in cui\nvengono affrontate e banalizzate determinate malattie mentali, cercando di mostrare il punto di vista\n",
+        "position": "top"
+    }
+]
