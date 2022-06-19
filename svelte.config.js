@@ -6,8 +6,8 @@ const config = {
 	kit: {
 		paths: { base: "/jdtai" },
 		adapter: adapter({
-			pages: 'build',
-			assets: 'build',
+			pages: 'public',
+			assets: 'public',
 			fallback: 'index.html'
 		})
 	},
