@@ -4,7 +4,7 @@ import preprocess from "svelte-preprocess";
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: {
-		paths: { base: '/jdtai' },
+		paths: { base: '/' },
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
