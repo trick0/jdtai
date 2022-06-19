@@ -12,15 +12,23 @@
         "code": "page2",
         "background": "#D5D5D5",
         "color": "#000000",
-        "content": "*Il gioco narra le storie di alcuni pazienti di una clinica camuffata in condominio\nche cercano di vivere una vita normale sotto il controllo di medici, infermieri\ne personale sanitario.*\n\n*B, personaggio principale, soffre di disturbi di ansia e deve combattere con\nfrequenti attacchi di panico e distacco dalla realtà, nella ricerca verso la compressione di sè\ne dei suoi vicini.*",
+        "content": "What happen when no one understand you?\n<div class='font-bold'>horror</div>\nA trip to the difference between reality and perception.\nWhat other feels and sees is not always what you perceive. A cry for help which is often not listened",
         "position": "top"
     },
     {
         "title": "page 3",
         "code": "page3",
-        "color": "#D5D5D5",
         "background": "#000000",
-        "content": "La storia si apre lentamente con una serie di documenti e dialoghi con gli altri inquilini.\nB, dovrà capire la cripticità di alcuni dialoghi e testi e dovrà farsi avanti durante il giorno e la notte\naffrontando le proprie paure e i propri demoni interiori.\n\n<p style='color: blue;'>*Just don't think about it*</p> è un gioco che vuole mettere sotto una luce diversa, il modo in cui\nvengono affrontate e banalizzate determinate malattie mentali, cercando di mostrare il punto di vista\n",
+        "color": "#D5D5D5",
+        "content": "*Il gioco narra le storie di alcuni pazienti di una clinica camuffata in condominio\nche cercano di vivere una vita normale sotto il controllo di medici, infermieri\ne personale sanitario.*\n\n*B, personaggio principale, soffre di disturbi di ansia e deve combattere con\nfrequenti attacchi di panico e distacco dalla realtà, nella ricerca verso la compressione di sè\ne dei suoi vicini.*",
+        "position": "top"
+    },
+    {
+        "title": "page 4",
+        "code": "page4",
+        "color": "#000000",
+        "background": "#D5D5D5",
+        "content": "La storia si apre lentamente con una serie di documenti e dialoghi con gli altri inquilini.\nB, dovrà capire la cripticità di alcuni dialoghi e testi e dovrà farsi avanti durante il giorno e la notte\naffrontando le proprie paure e i propri demoni interiori.\n\n<p style='color: #00FFC5;'>*Just don't think about it*</p> è un gioco che vuole mettere sotto una luce diversa, il modo in cui\nvengono affrontate e banalizzate determinate malattie mentali, cercando di mostrare il punto di vista\n",
         "position": "top"
     }
 ]
