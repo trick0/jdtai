@@ -3,9 +3,9 @@
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "svelte-kit dev",
-		"build": "svelte-kit build",
-		"predeploy": "npm run build",
-		"deploy": "gh-pages -d build",
+		"build": "svelte-kit public",
+		"predeploy": "npm run public",
+		"deploy": "gh-pages -d public",
 		"package": "svelte-kit package",
 		"preview": "svelte-kit preview",
 		"prepare": "svelte-kit sync",
