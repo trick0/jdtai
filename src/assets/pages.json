@@ -12,7 +12,7 @@
         "code": "page2",
         "background": "#D5D5D5",
         "color": "#000000",
-        "content": "What happen when no one understand you?\n<div class='font-bold'>horror</div>\nA trip to the difference between reality and perception.\nWhat other feels and sees is not always what you perceive. A cry for help which is often not listened",
+        "content": "<style>.tag { display: inline; margin-right: 5px; color: white; background: black; border-radius: 6px; padding: 4px; } </style>What happen when no one understand you?\n<div style='margin: 10px 0px'><div class='tag'>horror</div><div class='tag'>1bit</div><div class='tag'>pixel art</div></div>\nA trip to the difference between reality and perception.\nWhat other feels and sees is not always what you perceive. A cry for help which is often not listened",
         "position": "top"
     },
     {
