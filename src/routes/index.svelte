@@ -5,7 +5,10 @@
 
 <main class="w-full h-full">
 	{#each pages as page}
-		<div class="page h-full p-8" id={page.title} style="background-color: {page.background}; color: {page.color}">
+		<div 
+			class="page h-full p-8 flex flex-col" 
+			id={page.title} 
+			style="justify-content: {page.position}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}">
 			<SvelteMarkdown source={page.content} />
 		</div>
 	{/each}

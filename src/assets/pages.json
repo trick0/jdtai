@@ -2,33 +2,40 @@
     {
         "title": "page 1",
         "code": "page1",
-        "background": "#000000",
+        "background": "#202020",
         "color": "#D5D5D5",
-        "content": "![](20220619_154054_logo.png)",
-        "position": "bottom"
+        "content": "![](20220619_154054_logo.png)\n\nB-Dev",
+        "backgroundPosition": "center right",
+        "position": "end"
     },
     {
         "title": "page 2",
         "code": "page2",
-        "background": "#D5D5D5",
+        "background": "#e4e4e4",
         "color": "#000000",
         "content": "<style>.tag { display: inline; margin-right: 5px; color: white; background: black; border-radius: 6px; padding: 4px; } </style>What happen when no one understand you?\n<div style='margin: 10px 0px'><div class='tag'>horror</div><div class='tag'>1bit</div><div class='tag'>pixel art</div></div>\nA trip to the difference between reality and perception.\nWhat other feels and sees is not always what you perceive. A cry for help which is often not listened",
-        "position": "top"
+        "backgroundPosition": "center left",
+        "position": "start"
+
     },
     {
         "title": "page 3",
         "code": "page3",
         "background": "#000000",
         "color": "#D5D5D5",
-        "content": "*Il gioco narra le storie di alcuni pazienti di una clinica camuffata in condominio\nche cercano di vivere una vita normale sotto il controllo di medici, infermieri\ne personale sanitario.*\n\n*B, personaggio principale, soffre di disturbi di ansia e deve combattere con\nfrequenti attacchi di panico e distacco dalla realtà, nella ricerca verso la compressione di sè\ne dei suoi vicini.*",
-        "position": "top"
+        "content": "*Lorem ipsum dolor sit amet \nconsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris*",
+        "backgroundPosition": "center right",
+        "position": "start"
+
     },
     {
         "title": "page 4",
         "code": "page4",
-        "color": "#000000",
-        "background": "#D5D5D5",
-        "content": "La storia si apre lentamente con una serie di documenti e dialoghi con gli altri inquilini.\nB, dovrà capire la cripticità di alcuni dialoghi e testi e dovrà farsi avanti durante il giorno e la notte\naffrontando le proprie paure e i propri demoni interiori.\n\n<p style='color: #00FFC5;'>*Just don't think about it*</p> è un gioco che vuole mettere sotto una luce diversa, il modo in cui\nvengono affrontate e banalizzate determinate malattie mentali, cercando di mostrare il punto di vista\n",
-        "position": "top"
+        "color": "#e4e4e4",
+        "background": "#202020",
+        "content": "Lorem ipsum dolor sit amet \n<p style='font-weight: bold; color: #00FFC5;'> Just don't think about it </p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "backgroundPosition": "center left",
+        "position": "start"
+
     }
 ]
