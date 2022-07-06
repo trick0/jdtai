@@ -8,7 +8,7 @@
 		<div 
 			class="page h-full p-8 flex flex-col" 
 			id={page.title} 
-			style="justify-content: {page.position}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}">
+			style="justify-content: {page.position}; background-size: {page.backgroundSize}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}">
 			<SvelteMarkdown source={page.content} />
 		</div>
 	{/each}
