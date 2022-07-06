@@ -1,45 +1,93 @@
 [
     {
-        "title": "page 1",
+        "title": "",
         "code": "page1",
         "background": "#202020",
         "color": "#D5D5D5",
-        "content": "![](20220619_154054_logo.png)\n\nB-Dev",
+        "content": ["![](20220619_154054_logo.png)\n\nB-Dev"],
         "backgroundPosition": "center right",
         "backgroundSize": "cover",
         "position": "end"
     },
     {
-        "title": "page 2",
+        "title": "Just don't think about it",
         "code": "page2",
         "background": "#e4e4e4",
         "color": "#000000",
-        "content": "<style>.tag { display: inline; margin-right: 5px; color: white; background: black; border-radius: 6px; padding: 4px; } </style>What happen when no one understand you?\n<div style='margin: 10px 0px'><div class='tag'>horror</div><div class='tag'>1bit</div><div class='tag'>pixel art</div></div>\nA trip to the difference between reality and perception.\nWhat other feels and sees is not always what you perceive. A cry for help which is often not listened",
+        "content": [
+            "Cosa accade quando nessuno ti capisce?",
+            "Un viaggio nella differenza tra realtà e percezione.",
+            "Cosa gli altri sentono e provano non spesso è in linea con ciò che senti e provi tu.",
+            "Un grido d'aiuto, mai ascoltato.",
+            "<div style='margin: 20px 0px'><div class='tag'>psychological horror</div><div class='tag'>1-bit</div><div class='tag'>pixel art</div></div>"
+        ],
         "backgroundPosition": "center left",
         "backgroundSize": "cover",
         "position": "start"
 
     },
     {
-        "title": "page 3",
+        "title": "Cosa è Just don't think about it",
         "code": "page3",
         "background": "#000000",
         "color": "#D5D5D5",
-        "content": "*Lorem ipsum dolor sit amet \nconsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris*",
+        "content": [
+            "<p class='inline' style='color: #00FFC5;'> Just don't think about it </p> è un breve horror psicologico narrativo",
+            "con toni claustrofobici, serrati e disturbanti.",
+            "Parla di come non tutte le malattie mentali vengano trattate con il giusto peso",
+            "portando chi ne soffre a sentirsi insicuro, inadatto, sbagliato."
+        ],
         "backgroundPosition": "center right",
         "backgroundSize": "cover",
         "position": "start"
 
     },
     {
-        "title": "page 4",
-        "code": "page4",
+        "title": "A chi è diretto?",
+        "code": "page1",
         "color": "#e4e4e4",
         "background": "#202020",
-        "content": "Lorem ipsum dolor sit amet \n<p style='font-weight: bold; color: #00FFC5;'> Just don't think about it </p> consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore\n magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris",
+        "content": [
+            "<p style='font-weight: bold; color: #00FFC5;'> Just don't think about it </p> è diretto ad un pubblico amante del genere <div class='tag'>horror psicologico</div>",
+            "che apprezza l'esplorazione di ambienti stretti e chiusi e che cerca",
+            "uno stile artistico diverso e particolare",
+            "Si rivolge principalmente alla fascia d'età tra i 25 e i 35 anni"
+        ],
+        "backgroundPosition": "center right",
+        "backgroundSize": "cover",
+        "position": "start"
+    },
+    {
+        "title": "Chi ci lavora e da quanto?",
+        "code": "page2",
+        "background": "#D5D5D5",
+        "color": "#191919",
+        "content": [
+            "Il team è composto da 4 persone + 2 consulenti esterni.",
+            "Il progetto è in sviluppo attivo da circa un anno.",
+            "Al momento il gioco è completo di tutti i sistemi previsti dai documenti di design, gli asset e i sistemi di progressione."
+        ],
         "backgroundPosition": "center left",
         "backgroundSize": "cover",
         "position": "start"
 
+    },
+    {
+        "title": "Cosa manca?",
+        "code": "page3",
+        "color": "#e4e4e4",
+        "background": "black",
+        "content": [
+            "<li>Lo sviluppo di gran parte della storia (completa lato design)</li>",
+            "<li>Musiche</li>",
+            "<li>SFX</li>",
+            "<li>Localizzazione</li>",
+            "<li>Bugfix</li>",
+            "<li>Testing</li>",
+            "<li>Perfezionamento</li>"
+        ],
+        "backgroundPosition": "center left",
+        "backgroundSize": "contains",
+        "position": "start"
     }
 ]
