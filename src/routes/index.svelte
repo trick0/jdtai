@@ -14,7 +14,7 @@
 			</div>
 			{#each page.content as row}
 				<div class="my-2 xl:w-1/2">
-					<SvelteMarkdown source={ row } />
+					{@html row }
 				</div>
 			{/each}
 		</div>

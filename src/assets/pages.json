@@ -4,7 +4,9 @@
         "code": "page1",
         "background": "#202020",
         "color": "#D5D5D5",
-        "content": ["![](20220619_154054_logo.png)\n\nB-Dev"],
+        "content": [
+            "<div style='padding: 50px;'><img src='20220619_154054_logo.png'/></div>"
+        ],
         "backgroundPosition": "center right",
         "backgroundSize": "cover",
         "position": "end"
@@ -32,7 +34,7 @@
         "background": "#000000",
         "color": "#D5D5D5",
         "content": [
-            "<p class='inline' style='color: #00FFC5;'> Just don't think about it </p> è un breve horror psicologico narrativo",
+            "<span style='font-weight: bold; color: #00FFC5;'> Just don't think about it </span> è un breve horror psicologico narrativo",
             "con toni claustrofobici, serrati e disturbanti.",
             "Parla di come non tutte le malattie mentali vengano trattate con il giusto peso",
             "portando chi ne soffre a sentirsi insicuro, inadatto, sbagliato."
@@ -48,7 +50,7 @@
         "color": "#e4e4e4",
         "background": "#202020",
         "content": [
-            "<p style='font-weight: bold; color: #00FFC5;'> Just don't think about it </p> è diretto ad un pubblico amante del genere <div class='tag'>horror psicologico</div>",
+            "<span style='font-weight: bold; color: #00FFC5;'> Just don't think about it </span> è diretto ad un pubblico amante del genere horror psicologico",
             "che apprezza l'esplorazione di ambienti stretti e chiusi e che cerca",
             "uno stile artistico diverso e particolare",
             "Si rivolge principalmente alla fascia d'età tra i 25 e i 35 anni"
@@ -78,7 +80,7 @@
         "color": "#e4e4e4",
         "background": "black",
         "content": [
-            "<li>Lo sviluppo di gran parte della storia (completa lato design)</li>",
+            "<li>Sviluppo di gran parte della storia (completa lato design)</li>",
             "<li>Musiche</li>",
             "<li>SFX</li>",
             "<li>Localizzazione</li>",
