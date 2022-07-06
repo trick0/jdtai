@@ -13,7 +13,7 @@
 				{page.title}
 			</div>
 			{#each page.content as row}
-				<div class="my-2 w-1/2">
+				<div class="my-2 xl:w-1/2">
 					<SvelteMarkdown source={ row } />
 				</div>
 			{/each}
