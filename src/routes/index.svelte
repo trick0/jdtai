@@ -22,13 +22,15 @@
 </main>
 
 <style>
-	main {
-		scroll-snap-type: y mandatory;
-		overflow-y: scroll;
-	}
-
-	.page {
-		scroll-snap-align: start;
+	@media only screen and (max-width: 1280px) {
+		main {
+			scroll-snap-type: y mandatory;
+			overflow-y: scroll;
+		}
+	
+		.page {
+			scroll-snap-align: start;
+		}
 	}
 
 	:global(.tag) {
