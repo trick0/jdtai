@@ -5,91 +5,50 @@
         "background": "#202020",
         "color": "#D5D5D5",
         "content": [
-            "<div style='padding: 50px;'><img src='20220619_154054_logo.png'/></div>"
+            "<div>&nbsp;</div>",
+            "<div class='w-full'><img style='margin: auto;' src='20220619_154054_logo.png'/></div>",
+            "<div class='w-full' style='text-align: center'>a game on mental illness trivialization</div></div>"
         ],
-        "backgroundPosition": "center right",
-        "backgroundSize": "cover",
-        "position": "end"
+        "backgroundPosition": "top right",
+        "backgroundSize": "contains",
+        "position": "space-between"
     },
     {
-        "title": "Just don't think about it",
-        "code": "page2",
-        "background": "#e4e4e4",
-        "color": "#000000",
-        "content": [
-            "Cosa accade quando nessuno ti capisce?",
-            "Un viaggio nella differenza tra realtà e percezione.",
-            "Cosa gli altri sentono e provano non spesso è in linea con ciò che senti e provi tu.",
-            "Un grido d'aiuto, mai ascoltato.",
-            "<div style='margin: 20px 0px'><div class='tag'>psychological horror</div><div class='tag'>1-bit</div><div class='tag'>pixel art</div></div>"
-        ],
-        "backgroundPosition": "center left",
-        "backgroundSize": "cover",
-        "position": "start"
-
-    },
-    {
-        "title": "Cosa è Just don't think about it",
-        "code": "page3",
-        "background": "#000000",
+        "title": "",
+        "code": "",
+        "background": "#202020",
         "color": "#D5D5D5",
         "content": [
-            "<span style='font-weight: bold; color: #00FFC5;'> Just don't think about it </span> è un breve horror psicologico narrativo",
-            "con toni claustrofobici, serrati e disturbanti.",
-            "Parla di come non tutte le malattie mentali vengano trattate con il giusto peso",
-            "portando chi ne soffre a sentirsi insicuro, inadatto, sbagliato."
+            "<div style='font-size: 2em; text-align: center;'>useless, unusable, irrecoverable, superfluous, vain, excessive, ineffective, unproductive, fruitless. just d̵o̴n̵'̸t̴ ̶t̸h̴i̷n̷k̸ ̶a̵b̸o̴u̸t̴ ̴i̵t̶ J̷̙̭̒͘Ú̴̺̬̔̕S̶̛͕̹̕ͅT̸̠̄̈́ ̵̢͚̮͐̕D̷̠̭͉̉̓̊Ǒ̶̯̒N̷̹̖̈́̀͠'̷̘̋̈́̕T̷̙̘͕̾ ̷̳̎͝T̶̤̮̪̒̒H̸̳̃̈́̌I̷̔̈́̽ͅN̶̻͊̚K̴̼̰̬͗ ̶̛̟̋A̶̫͐̅̍B̷̢̡̛͓̉͋Ŏ̸̖̜̣̍̀U̸̬̿̐͑T̷̹̃͆ I̴̧̡͈͚̒T̷͓̱̜̣̓͌ ̵̱̦̼̙̰̈̃͠j̷̡̙̤̓̀͆ú̸̡͖̙͎s̷̬͆t̷̨͓͊͜ͅ ̴̣͂̑̈̃D̴̻̑͘Ọ̸̱̈́͑͊̋Ǹ̴̢͓ͅ'̸̢̝̰̞͖̊͝T̴̗̩̔́̔̀͌ ̵̝͙̤̕t̴͔̞̪̝̚͝h̴͙̠̟͌̉͆̍͝ì̴̘̓̄͆n̶̩̲̩̆̀̋͝k̴̻̗̰͂͌̉̓̉ͅ ̴̨̭͙̪̟̓̾̅͑͝Ḁ̶̡͒B̴͖̈́́Ó̵̡̼̠̃̃̌U̵͉̳͋̈́̇͠T̵͕̍͘ i̵̧̨̦̫̯͂̌̒͊̔̚͜͜ͅt̵̠̒̾̅̀̆ ̸̨͙̱̰̞̹̣͔̳̾̐̋̽j̶̨͍̙̞͚͚̳͖͖̱̿̂̋͛̎̏́̈́͋͝Ů̷̦͒͂̊͋̉̎̚s̴͈̬̜͉̯͋͑̏̔Ṱ̵̙̼̯̊̋͆͆͋̉̄̓̍ ̴̢̰͕̺̌d̴̛̳̞̥̱̹̼̩̳͛͛̂̽̀̒̌̈́͝Ǫ̵̡͈͈̝͛̓͋̀̅̓̍̑̕n̸̨͍͉̣͉͉͕͍̪̙͌̃̒̕'̸̨̰̙̝̰̯͚̼̗͎́͂̔̆̑̒T̵̨̡͎̳͚̻́ͅ ̵͇̙͖̜̝͉̪͙͖̩̺͂̓͑̑̑̊̀̄̕̕͝t̵̛̬͔̝͍͋͌͜H̸̠͌i̸̧̛͇͚͓͇̖̟̝̭̫͈̽͂͛̎́͌͝N̸̲̙͙̹̣̊̀̆͊̒͌́̎̏ͅķ̷̡̟͉͍̟̦̪̙͈̾̈́̉͜ ̴̞̜̊͂̏͛̈́̏̀̚Ȧ̶̛̮̻͇͕̰̳̾͆̏̒͒͒͒̈̕b̷̢̧̨̛̭͔͔͖̹͛̈́͒̄͑̄̕͝O̴̧̧͍̹̜̥̲̜̍̋ư̵͕̮̙̭͈̘̳̼̙̈́̀͒̃̃͗̐T̸̺̻̤̮̻̤̒͗̒̃̒͛ͅ ̴̠͂̓i̵̛̗̿͆T̵̑͐͊͐̚͜</div>"
         ],
-        "backgroundPosition": "center right",
-        "backgroundSize": "cover",
-        "position": "start"
-
-    },
-    {
-        "title": "A chi è diretto?",
-        "code": "page1",
-        "color": "#e4e4e4",
-        "background": "#202020",
-        "content": [
-            "<span style='font-weight: bold; color: #00FFC5;'> Just don't think about it </span> è diretto ad un pubblico amante del genere horror psicologico",
-            "che apprezza l'esplorazione di ambienti stretti e chiusi e che cerca",
-            "uno stile artistico diverso e particolare",
-            "Si rivolge principalmente alla fascia d'età tra i 25 e i 35 anni"
-        ],
-        "backgroundPosition": "center right",
-        "backgroundSize": "cover",
-        "position": "start"
-    },
-    {
-        "title": "Chi ci lavora e da quanto?",
-        "code": "page2",
-        "background": "#D5D5D5",
-        "color": "#191919",
-        "content": [
-            "Il team è composto da 4 persone + 2 consulenti esterni.",
-            "Il progetto è in sviluppo attivo da circa un anno.",
-            "Al momento il gioco è completo di tutti i sistemi previsti dai documenti di design, gli asset e i sistemi di progressione."
-        ],
+        "style": "background-image: linear-gradient(#202020, black);",
         "backgroundPosition": "center left",
         "backgroundSize": "cover",
-        "position": "start"
-
+        "position": "center"
     },
     {
-        "title": "Cosa manca?",
-        "code": "page3",
-        "color": "#e4e4e4",
+        "title": "",
+        "code": "",
         "background": "black",
+        "color": "#D5D5D5",
         "content": [
-            "<li>Sviluppo di gran parte della storia (completa lato design)</li>",
-            "<li>Musiche</li>",
-            "<li>SFX</li>",
-            "<li>Localizzazione</li>",
-            "<li>Bugfix</li>",
-            "<li>Testing</li>",
-            "<li>Perfezionamento</li>"
+            "<iframe style='margin: auto' width='720' height='400' src='https://www.youtube.com/embed/7FbSCTYGja4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
         ],
         "backgroundPosition": "center left",
+        "backgroundSize": "cover",
+        "position": "center"
+    },
+    
+    {
+        "title": "",
+        "code": "page4",
+        "background": "black",
+        "color": "#D5D5D5",
+        "content": [
+            "<div style='font-size: 2em; text-align: center'><a href='mailto:info@justdontthinkabout.it'><div style='font-weigth: bold; font-size: 4em;'>info</div><div>info@justdontthinkabout.it</div></a></div>"
+        ],
+        "backgroundPosition": "top right",
         "backgroundSize": "contains",
-        "position": "start"
+        "position": "space-evenly"
     }
 ]

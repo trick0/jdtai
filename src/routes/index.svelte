@@ -8,12 +8,14 @@
 		<div 
 			class="page h-full p-8 flex flex-col" 
 			id={page.title + page.code} 
-			style="justify-content: {page.position}; background-size: {page.backgroundSize}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}">
-			<div class="text-2xl font-bold my-4">
-				{page.title}
-			</div>
+			style="justify-content: {page.position}; background-size: {page.backgroundSize}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}; {page.style} ">
+			{#if page.title}
+				<div class="text-2xl font-bold my-4">
+					{page.title}
+				</div>
+			{/if}
 			{#each page.content as row}
-				<div class="my-2 xl:w-1/2">
+				<div class="my-2 xl:w-1/2 m-auto">
 					{@html row }
 				</div>
 			{/each}
