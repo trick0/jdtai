@@ -10,7 +10,7 @@
             "<div class='w-full' style='text-align: center'>a game on mental illness trivialization</div></div>"
         ],
         "backgroundPosition": "top right",
-        "backgroundSize": "contains",
+        "backgroundSize": "contain",
         "position": "space-between"
     },
     {
@@ -32,7 +32,8 @@
         "background": "black",
         "color": "#D5D5D5",
         "content": [
-            "<iframe style='margin: auto' width='720' height='400' src='https://www.youtube.com/embed/7FbSCTYGja4' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+            "<iframe class='sm:hidden' style='margin: auto' width='300' src='https://www.youtube.com/embed/7FbSCTYGja4' title='just dont think about it' frameborder='0' allow='accelerometer; autoplay='true'; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+            "<iframe class='hidden sm:block' style='margin: auto' width='560' height='315' src='https://www.youtube.com/embed/7FbSCTYGja4' title='just dont think about it' frameborder='0' allow='accelerometer; autoplay='true'; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
         ],
         "backgroundPosition": "center left",
         "backgroundSize": "cover",
@@ -45,10 +46,11 @@
         "background": "black",
         "color": "#D5D5D5",
         "content": [
-            "<div style='font-size: 2em; text-align: center'><a href='mailto:info@justdontthinkabout.it'><div style='font-weigth: bold; font-size: 4em;'>info</div><div>info@justdontthinkabout.it</div></a></div>"
+            "<div><a href='mailto:info@justdontthinkabout.it'><div>info</div><div class='mt-4 xl:text-2xl text-sm :md:text-md'>info@justdontthinkabout.it</div></a></div>"
         ],
+        "class": "xl:text-8xl text-4xl font-bold text-center",
         "backgroundPosition": "top right",
-        "backgroundSize": "contains",
+        "backgroundSize": "contain",
         "position": "space-evenly"
     }
 ]

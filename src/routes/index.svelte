@@ -6,7 +6,7 @@
 <main class="w-full h-full">
 	{#each pages as page}
 		<div 
-			class="page h-full p-8 flex flex-col" 
+			class="page h-full p-8 flex flex-col {page.class}" 
 			id={page.title + page.code} 
 			style="justify-content: {page.position}; background-size: {page.backgroundSize}; background-image: url('{page.code}.png'); background-repeat: no-repeat; background-position: {page.backgroundPosition}; background-color: {page.background}; color: {page.color}; {page.style} ">
 			{#if page.title}
