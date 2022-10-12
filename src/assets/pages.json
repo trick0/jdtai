@@ -9,6 +9,7 @@
             "<div class='w-full'><img style='margin: auto;' src='20220619_154054_logo.png'/></div>",
             "<div class='w-full' style='text-align: center'>a game on mental illness trivialization</div></div>"
         ],
+        "class": "glitch",
         "backgroundPosition": "top right",
         "backgroundSize": "contain",
         "position": "space-between"
