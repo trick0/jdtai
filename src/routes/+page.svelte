@@ -43,4 +43,8 @@
 		border-radius: 3px;
 		padding: 6px;
 	}
+
+	.glitch {
+		animation: glitch 0.1s linear infinite;
+	}
 </style>
